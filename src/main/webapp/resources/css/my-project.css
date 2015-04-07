@@ -1,0 +1,49 @@
+.side-menu {
+    width: 300px;
+    float: left;
+    margin-right: 15px;
+}
+
+.img-div {
+
+    padding-bottom: 15px;
+    float: left;
+    width: 300px;
+    height: 300px;
+
+}
+
+.comments-container {
+    max-width: 620px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.padding-top-15 {
+    padding-top: 15px;
+}
+
+.comment-img {
+    width: 75px;
+    float: left;
+    padding-left: 15px;
+}
+
+.comment-content {
+    padding-left: 90px;
+}
+
+body > div.container > ul {
+    margin: auto;
+    align-content: center;
+}
+.navbar-nav {
+    display:table;
+    width:100%;
+    margin: 0;
+}
+.navbar-nav > li {
+    display:table-cell;
+    padding-left: 200px;
+    text-align:center;
+}
